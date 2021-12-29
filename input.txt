@@ -1,0 +1,3 @@
+Hello World
+This PYTHON app uses PYTHON for Apache Spark
+This PYTHON app counts words with Apache Spark
