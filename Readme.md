@@ -68,7 +68,9 @@ pack the venv folder into venv.tar.gz and then submit both SparkPython.py file a
 If the Spark application is successfully build it should print out result table as follows:
 
 ![](jpg/result.jpg)
-    
+
+
+
     
 
 
